@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MyTestToo]]></title>
+        <description><![CDATA[MyTestToo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Jan 2016 17:45:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Space Life]]></title>
+            <description><![CDATA[<article><h1>A Space Life</h1><p>How does it feel to be in space? How will animals like to stay in close to no gravity? Will they be any changes in their body structure? What about Christmas in space? Or maybe writing in space? How will this work? Are they some other rules to doing simple stuff in space that make it much more complicated? Let’s learn about this. Did you know that astronauts grow up to two inches taller when they go to space? And when they’re back they are normal. This is an example of how microgravity affects us. If you go up to space and comeback down you may drop things like mugs because of getting used to low gravity. And you literally get to see 16 sunrises a day. Animals In Space   Most of us think that before Yuri Gagarin, no living being had ever experienced or felt what it is like to be in space. After all, plants or birds don’t go for vacation in outer space, right?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b63c34ddbe0a873d09a6569673bbd5385767098.jpg"></article>]]></description>
+            <link>undefined109ce58d-68d5-42e5-a98c-fdea6360dae7/index.html</link>
+            <guid isPermaLink="false">109ce58d-68d5-42e5-a98c-fdea6360dae7</guid>
+            <pubDate>Mon, 04 Jan 2016 17:44:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
